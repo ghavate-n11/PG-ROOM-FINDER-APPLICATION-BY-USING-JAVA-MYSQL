@@ -1,6 +1,6 @@
 // create the package named as pgfinder first then create some files otherwise it should gives error not runs 100%  CONTACT ME: nileshghavate11@gmail.com
 package pg.pgfinder;
-
+//import required packages
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
