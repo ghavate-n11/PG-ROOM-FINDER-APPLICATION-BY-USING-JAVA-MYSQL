@@ -1,4 +1,4 @@
-# **PG Room Finder Application**  
+# **PG Room Finder Desktop Application**  
 
 ## **Introduction**  
 The **PG Room Finder Application** is a **Java-based** solution designed to **simplify** the search and booking process for **paying guest (PG) accommodations**. It features an interactive **user interface**, integrates with a **MySQL database**, and offers **real-time search functionality** to deliver **accurate availability results**.  
