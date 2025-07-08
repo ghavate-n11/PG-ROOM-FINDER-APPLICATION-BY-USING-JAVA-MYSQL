@@ -4,10 +4,10 @@
 The **PG Room Finder Application** is a **Java-based** solution designed to **simplify** the search and booking process for **paying guest (PG) accommodations**. It features an interactive **user interface**, integrates with a **MySQL database**, and offers **real-time search functionality** to deliver **accurate availability results**.  
 
 ## **Features**  
-✅ Efficient management of listings and user data via MySQL.  
-✅ Interactive, user-friendly interface for a seamless experience.  
-✅ Real-time search functionality for accurate availability results.  
-✅ Focus on **performance, security, and maintainability**.  
+Efficient management of listings and user data via MySQL.  
+Interactive, user-friendly interface for a seamless experience.  
+Real-time search functionality for accurate availability results.  
+Focus on **performance, security, and maintainability**.  
 
 ## **Technology Stack**  
 - **Language**: Java  
