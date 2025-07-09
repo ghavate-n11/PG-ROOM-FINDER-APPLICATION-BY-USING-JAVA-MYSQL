@@ -65,9 +65,7 @@ Connection conn = DriverManager.getConnection(url, user, password);
 Implement a **GUI-based version** using JavaFX or Swing.  
 Add **Google Maps API** integration for location-based searching.  
 Enable **online payment integration**.  
-
-## **License**  
-This project is **open-source** under the **MIT License**.  
+ 
 
 ## **Contributing**  
 Contributions are **welcome**! If you find any issues or want to improve the system, feel free to **fork the repository** and submit a **pull request**.  
