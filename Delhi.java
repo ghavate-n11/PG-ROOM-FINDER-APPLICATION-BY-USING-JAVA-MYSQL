@@ -1,6 +1,6 @@
 //not compulsory to write package 
 package pg.pgfinder;
-
+//package pgfinder;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 
