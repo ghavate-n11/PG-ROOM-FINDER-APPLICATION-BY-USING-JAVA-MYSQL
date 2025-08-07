@@ -81,6 +81,20 @@ public class Delhi extends JFrame implements ActionListener {
         back.setFont(new Font("tahoma", Font.PLAIN, 18));
         back.addActionListener(this); // Add action listener for back button
         add(back, BorderLayout.SOUTH);
+        
+
+        // PG 2 Details
+        JPanel pg2 = createPGPanel(
+                "IAS/IFS PG",
+                "Mukharji Nagar, Delhi",
+                "₹ 9500 per month onwards",
+                "Owner: Mrs. Mehra",
+                "Contact: 9876543222",
+                "Ideal for civil service aspirants, offering a conducive study environment.",
+                "proimg/delhi2.png",
+                contact2 = new JButton("Contact")
+        );
+        pgPanel.add(pg2);
 
         setVisible(true);
     }
